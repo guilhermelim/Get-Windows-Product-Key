@@ -11,7 +11,10 @@ Registry Address: `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersi
 Observação: Eu não sou responsável por nada que você faça com isso. Isso é apenas para propósitos educacionais.
 
 ## Referências :notebook:
-- WinProdKeyFinder [Class KeyDecoder](https://github.com/mrpeardotnet/WinProdKeyFinder)
+- WinProdKeyFinder - Foi utilizada a Class `KeyDecoder` do projeto. [Class KeyDecoder](https://github.com/mrpeardotnet/WinProdKeyFinder)
+
+## Author
+[Guilherme Lima](https://github.com/guilhermelim)
 
 ## License
-Mit [MIT License](https://raw.githubusercontent.com/guilhermelim/Get-Windows-Product-Key/master/LICENSE)
+[MIT License](https://raw.githubusercontent.com/guilhermelim/Get-Windows-Product-Key/master/LICENSE)
