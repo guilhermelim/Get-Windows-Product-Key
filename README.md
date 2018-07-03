@@ -1,5 +1,5 @@
 # Get-Windows-Product-Key
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/guilhermelim/Get-Windows-Product-Key/master/LICENSE)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/guilhermelim/Get-Windows-Product-Key/master/LICENSE)
 
 ### Presentation
 Obtain the Windows product key. This application is written in C # and is intended for everyone who needs to obtain the Windows product key number or
@@ -23,7 +23,7 @@ Note: I have no responsibility for anything you do with this. This is for educat
   * Windows 10
 
 ## References :notebook:
-- The class `KeyDecoder` was used from the project – [WinProdKeyFinder](https://github.com/mrpeardotnet/WinProdKeyFinder)
+- The class `KeyDecoder` was used from the project â€“ [WinProdKeyFinder](https://github.com/mrpeardotnet/WinProdKeyFinder)
 
 
 ## Author
