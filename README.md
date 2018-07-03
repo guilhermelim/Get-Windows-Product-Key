@@ -2,13 +2,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/guilhermelim/Get-Windows-Product-Key/master/LICENSE)
 
 ### Presentation
-Obtenha a chave do produto Windows. Este aplicativo é escrito em C# e destina-se a todos que precisam obter o número da chave do produto Windows ou 
-para aqueles que desejam decodificar `DigitalProductId` exportado do registro.
+Obtain the Windows product key. This application is written in C # and is intended for everyone who needs to obtain the Windows product key number or
+for those who wish to decode `DigitalProductId` exported from the registry.
 
 Registry Address: `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DigitalProductId`
 
 ![Print UI](README/print.png)
-Observação: Eu não sou responsável por nada que você faça com isso. Isso é apenas para propósitos educacionais.
+Note: I have no responsibility for anything you do with this. This is for educational purposes only.
 
 ## Requirements
 * .NET Framework 4.0 Client Profile ([Download](https://www.microsoft.com/en-us/download/details.aspx?id=24872))
@@ -23,7 +23,8 @@ Observação: Eu não sou responsável por nada que você faça com isso. Isso é apena
   * Windows 10
 
 ## References :notebook:
-- Foi utilizada a Class `KeyDecoder` do projeto – [WinProdKeyFinder](https://github.com/mrpeardotnet/WinProdKeyFinder)
+- The class `KeyDecoder` was used from the project – [WinProdKeyFinder](https://github.com/mrpeardotnet/WinProdKeyFinder)
+
 
 ## Author
 [Guilherme Lima](https://github.com/guilhermelim)
