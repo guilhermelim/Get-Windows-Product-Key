@@ -32,8 +32,6 @@ Note: I have no responsibility for anything you do with this. This is for educat
 ## License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/guilhermelim/Get-Windows-Product-Key/master/LICENSE)
 
-MIT License
-
 Copyright (c) 2018 Guilherme Lima
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
