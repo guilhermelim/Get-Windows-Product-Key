@@ -30,7 +30,11 @@ Note: I have no responsibility for anything you do with this. This is for educat
 [Guilherme Lima](https://github.com/guilhermelim)
 
 ## License
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/guilhermelim/Get-Windows-Product-Key/master/LICENSE) – Copyright (c) 2018 Guilherme Lima
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/guilhermelim/Get-Windows-Product-Key/master/LICENSE)
+
+MIT License
+
+Copyright (c) 2018 Guilherme Lima
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
