@@ -10,10 +10,8 @@ Registry Address: `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersi
 ![Print UI](README/print.png)
 Observação: Eu não sou responsável por nada que você faça com isso. Isso é apenas para propósitos educacionais.
 
-----
-
-## References ? :notebook:
-- WinProdKeyFinder [Link](https://github.com/mrpeardotnet/WinProdKeyFinder)
+## Referências :notebook:
+- WinProdKeyFinder [Class KeyDecoder](https://github.com/mrpeardotnet/WinProdKeyFinder)
 
 ## License
- https://raw.githubusercontent.com/guilhermelim/Get-Windows-Product-Key/master/LICENSE
+Mit [MIT License](https://raw.githubusercontent.com/guilhermelim/Get-Windows-Product-Key/master/LICENSE)
